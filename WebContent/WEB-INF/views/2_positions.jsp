@@ -8,9 +8,6 @@
 <title>포지션</title>
 </head>
 <body>
-포지션은 
-<c:forEach items="${positions}" var="dto">
-${dto} ,
-</c:forEach>입니다
+포지션은 ${positions} 입니다
 </body>
 </html>
